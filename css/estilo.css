@@ -1,6 +1,6 @@
 body { 
- background-color: lightblue; 
-color: blue;
+ background-color: rgb(68, 32, 32); 
+color: rgb(60, 255, 0);
 text-align: center;    
 font-family: "courier";
 }
